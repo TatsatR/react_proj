@@ -27,3 +27,10 @@ address{
     margin:0px;
     color:#0f0f0f;
 }
+.row-about{
+    border-bottom: 1px ridge;
+}
+.row-header1{
+    margin:0px auto;
+    padding:70px 30px 70px 30px;
+}
